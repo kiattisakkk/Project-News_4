@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.articles {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.article {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    width: 200px;
+}
+
+.article img {
+    width: 100%;
+    height: auto;
+}
+
+.article h2 {
+    font-size: 18px;
+    margin: 10px 0;
+}
